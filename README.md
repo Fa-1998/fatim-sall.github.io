@@ -1,6 +1,4 @@
-# fatim-sall.github.io
-Portfolio Ingénieure Cybersécurité
-# 👩‍💻 Fatim SALL | Ingénieure Cybersécurité & Systèmes
+# 👩‍💻 Fatim SALL | Ingénieure Cybersécurité & Systèmes | Portfolio
 
 > 🔐 Sécuriser les infrastructures • Détecter les menaces • Renforcer la résilience des systèmes
 
